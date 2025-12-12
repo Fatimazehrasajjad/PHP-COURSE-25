@@ -1,0 +1,7 @@
+Name: Fatima Zehra Sajjad.
+City:Karaci.
+Country: Pakistan.
+Email: fatimazehrasajjad299@gmail.com.
+Qualification: BA(H) in Sociology From University Of Karachi. 
+Diploma: Currently doing Web Development Course From Aptech.
+Skills: HTML, CSS, JAVASCRIPT and MYSQL.
